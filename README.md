@@ -1,12 +1,14 @@
 # 🍕 Code Pizza
 
-> *“Code messy. Eat cheesy.”*
-
-![Code Pizza Banner](./A_flat-style_digital_illustration_serves_as_a_logo.png)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/code-pizza?style=social)  
+> ***“Code messy. Eat cheesy.”***
+> 
+![GitHub Repo stars](https://img.shields.io/github/stars/C7N-ops/code-pizza?style=social)  
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%F0%9F%8D%95%20%26%20%F0%9F%92%9C-red)  
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![Code Pizza Banner](./CodePizza.png)
+
+
 
 ---
 
