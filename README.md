@@ -1,27 +1,25 @@
-# 🍕 Code Pizza
+# 🍕 CodePizza
 
 > ***“Code messy. Eat cheesy.”***
-> 
-![GitHub Repo stars](https://img.shields.io/github/stars/C7N-ops/code-pizza?style=social)  
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%F0%9F%8D%95%20%26%20%F0%9F%92%9C-red)  
-![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+>   
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Static Badge](https://img.shields.io/badge/Build-WINNING-brightgreen)
+![Static Badge](https://img.shields.io/badge/Version-0.0.1-red)
 
 ![Code Pizza Banner](./CodePizza.png)
 
-
-
 ---
 
-## 🧠 What is Code Pizza?
+## 🧠 What is CodePizza?
 
-**Code Pizza** is a quirky, developer-friendly brand celebrating the casual, chaotic joy of coding and comfort food.
+**CodePizza** is a quirky, developer-friendly brand celebrating the casual, chaotic joy of tech and...pizza.
 
 It’s a:
 - 🎉 Creative outlet  
 - 🌐 Community & content hub  
-- 💡 Open-source playground for devs who write bugs by day and eat pizza by night
+- 💡 Open-source playground for devs who write bugs by day and eat pizza all the time
 
-You bring the code, we bring the cheese.
+You bring the code, we bring the cheese...and pepperoni.
 
 ---
 
@@ -35,6 +33,7 @@ We're still putting toppings on this pie, but here's what you might see soon:
 - 📹 Tutorial videos with extra cheese  
 - 🧠 Developer content with humor baked in  
 - 😬 Bugs. Lots of them.
+- I dunno...I dunno if there will be enough time.
 
 Whether you're here to learn, build, laugh, or cry over broken builds, you're welcome.
 
@@ -47,7 +46,7 @@ npm install code-pizza
 
 # Just kidding... unless?
 ```
-Stay tuned for our first few releases—including:
+Stay tuned for our first few releases—possibly including:
 
 🔧 Browser extensions
 
@@ -77,7 +76,7 @@ More toppings are on the way!
 
 🌍 Website: codepizza.dev (coming soon)
 
-🎥 YouTube: Code Pizza
+🎥 YouTube: CodePizza
 
 💬 Discord: Invite Coming Soon
 
@@ -91,19 +90,18 @@ Because freedom tastes better with mozzarella.
 
 ---
 
-## 🤌 Code Pizza Philosophy
-At Code Pizza, we believe:
+## 🤌 CodePizza Philosophy
+At CodePizza, we believe:
 
 🍕 Bugs are toppings
 
 💻 Forks are optional
 
-🧠 Stack traces are seasoning
-
 🚀 Every project is a little undercooked by design
 
 Pull up a chair. Take a slice. Write some gloriously flawed code.
 
-**Welcome to the Pizza Party.**
 
+
+**Made with 🧀, 🍕 and ❤️. Welcome to the Pizza Party**
 
