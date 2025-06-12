@@ -78,7 +78,7 @@ More toppings are on the way!
 
 🎥 YouTube: [CodePizzaDev](https://www.youtube.com/@CodePizzaDev)
 
-💬 Discord: Invite Coming Soon
+💬 Discord:[CodePizza Server](https://discord.gg/btwBfp4cbX)
 
 🧵 Twitter/X: [@codepizzadev](https://x.com/CodePizzaDev)
 
