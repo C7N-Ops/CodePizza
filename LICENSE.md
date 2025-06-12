@@ -1,31 +1,42 @@
-# 🍕 CodePizza License (MIT)
+# 🧾 CodePizza License Receipt (MIT Edition)
 
-Copyright (c) [YEAR] [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
-
-## 🧀 Conditions
-
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.
-
-## 🛑 Liability
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
-SOFTWARE.
+**Order #:** 001  
+**Table:** Open Source  
+**Server:** MIT  
+**Date:** 2025  
+**Customer:** C7N, Inc. 
 
 ---
 
-> TL;DR: You can use this. You can remix this. You can even sell stuff with it.  
-> Just don’t sue us, and don’t remove the credits. 🍕
+**🍕 ITEMS ORDERED**
 
+- ✅ Unlimited use of the Software  
+- ✅ Rights to copy, modify, merge, publish, distribute, sublicense, and sell  
+- ✅ Permission to remix and reuse the code, even commercially  
+- ✅ Free refills on creativity  
+
+**🧀 Special Instructions:**  
+- Must include this license and the original credits with any slice you serve.  
+- Don’t pretend you made the whole pizza if you didn’t.
+
+---
+
+**💸 TOTAL COST: $0.00**  
+(But if you want to tip the devs with good vibes or PRs, we won’t stop you.)
+
+---
+
+**🛑 DISCLAIMERS & FINE PRINT**  
+The Software is served "AS IS", with no guarantees, warranties, or bug-free crusts.  
+We are not responsible for lost time, broken builds, production fires, or melted keyboards.
+
+---
+
+**🍕 TL;DR:**
+Use it. Remix it. Ship it. Sell it. Just don’t sue us, and leave the credits on the box.
+
+---
+
+**Thank you for supporting open source. Come again!**
+
+— The CodePizza Crew
