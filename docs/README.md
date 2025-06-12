@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Build-WINNING-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Version-0.0.1-red)
 
-![Code Pizza Banner](./assets/CodePizza.png)
+![Code Pizza Banner](../assets/CodePizza.png)
 
 ---
 
@@ -76,11 +76,15 @@ More toppings are on the way!
 
 🌍 Website: codepizza.dev (coming soon)
 
-🎥 YouTube: CodePizzaDev
+🎥 YouTube: [CodePizzaDev](https://www.youtube.com/@CodePizzaDev)
 
 💬 Discord: Invite Coming Soon
 
-🧵 Twitter/X: @codepizzadev
+🧵 Twitter/X: [@codepizzadev](https://x.com/CodePizzaDev)
+
+📝 [Github Repo](https://github.com/C7N-Ops/CodePizza)
+
+📚 [Wiki](https://github.com/C7N-Ops/CodePizza/wiki)
 
 ---
 
