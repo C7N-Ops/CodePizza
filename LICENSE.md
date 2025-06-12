@@ -39,4 +39,8 @@ Use it. Remix it. Ship it. Sell it. Just don’t sue us, and leave the credits o
 
 **Thank you for supporting open source. Come again!**
 
-— The CodePizza Crew
+— ***The CodePizza Crew***
+
+![Thank You Footer](./assets/ThankYou.png)
+
+
