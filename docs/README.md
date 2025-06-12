@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Build-WINNING-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Version-0.0.1-red)
 
-![Code Pizza Banner](https://github.com/C7N-Ops/CodePizza/blob/main/assets/CodePizza.png)
+![Code Pizza Banner](./CodePizza.png)
 
 ---
 
