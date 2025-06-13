@@ -1,0 +1,37 @@
+name: 🍕 Suggest an Idea or Contribution
+description: Have something fun, weird, helpful, or delicious to add to CodePizza?
+title: "[CONTRIBUTION] <your idea here>"
+labels: [🍕 idea, community]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to CodePizza! Whether it’s a new feature, challenge, theme, meme, or doc fix — we want to hear it.
+
+  - type: textarea
+    id: contribution
+    attributes:
+      label: What's your idea or contribution?
+      description: Describe what you want to add or improve. Be as specific (or chaotic) as you want.
+      placeholder: "I want to add a Rust template with pineapple mode enabled by default..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: areas
+    attributes:
+      label: What area(s) does this involve?
+      options:
+        - label: 🧠 Wiki content (docs, tutorials, examples)
+        - label: 🛠️ Code / feature / template
+        - label: 🎨 Design / visuals / memes
+        - label: 💬 Community / Discord / social
+        - label: 🍍 Other (explain above)
+
+  - type: dropdown
+    id: experience
+    attributes:
+      label: Is this your first contribution to CodePizza?
+      options:
+        - "Yes – I'm new here!"
+        - "Nope – I'm a returning slicer 🍕"
